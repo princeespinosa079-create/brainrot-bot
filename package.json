@@ -1,0 +1,15 @@
+{
+  "name": "steal-a-brainrot-logger",
+  "version": "1.0.0",
+  "description": "Discord bot para sa Steal a Brainrot auto joiner logger",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
